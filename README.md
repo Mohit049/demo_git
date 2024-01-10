@@ -1,2 +1,3 @@
 # demo_git
-Practice Git And Github
+Practice Git And GitHub
+By Mohit Jajware
