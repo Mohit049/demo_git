@@ -1,2 +1,2 @@
 # demo_git
-Practicing Git 
+Practice Git And Github
